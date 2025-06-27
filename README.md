@@ -5,7 +5,7 @@ Users can create, view, filter, and delete blog posts. All data is stored in the
 
 ## Live Demo
 
-[Click here to view the live demo](https://blog-app-sandy-omega.vercel.app/
+[Click here to view the live demo](https://blog-app-sandy-omega.vercel.app/)
 
 ## Features
 
